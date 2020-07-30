@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/UnbanMeFromPoggit/test
+build-by-default: true
+branches:
+- @everyone
+projects:
+  test:
+    path: ""
+...
